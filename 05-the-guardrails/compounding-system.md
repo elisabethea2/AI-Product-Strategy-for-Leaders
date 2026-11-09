@@ -25,7 +25,13 @@
 
 **Autonomy boundaries:** Modify or replace existing Career Profile information, human approval required. Submit job applications or contact recruiters on behalf of users, never auto. Share personal career data with third parties without explicit authorization, never auto.
 
-**Escalation triggers:** 1. AI confidence falls below 70% when extracting or matching career information. 2. AI-generated information conflicts with existing Career Profile data. 3. The AI identifies missing or ambiguous evidence for an essential job requirement. 4. Any AI-generated change to the Career Profile requires user confirmation before saving. 5. Any action involving external sharing of personal data or submission of job applications requires explicit user authorization. 6. Users report incorrect, misleading, or potentially discriminatory AI assessments.
+**Escalation triggers:** 
+1. AI confidence falls below 70% when extracting or matching career information. 
+2. AI-generated information conflicts with existing Career Profile data. 
+3. The AI identifies missing or ambiguous evidence for an essential job requirement. 
+4. Any AI-generated change to the Career Profile requires user confirmation before saving. 
+5. Any action involving external sharing of personal data or submission of job applications requires explicit user authorization. 
+6. Users report incorrect, misleading, or potentially discriminatory AI assessments.
 
 **Audit cadence:** Real-time, Critical errors, unauthorized actions and personal data exposure. (System monitoring / Product Owner). Weekly, User corrections, incorrect job-fit assessments and AI extraction errors. (Product Owner). Monthly, AI accuracy, bias patterns, evaluation results and model performance drift. (Product Owner / AI Engineer). Quarterly, Governance policy, privacy controls, regulatory compliance and escalation procedures. (Product Owner / Security & Privacy Lead).
 
