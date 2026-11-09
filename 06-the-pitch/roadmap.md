@@ -115,7 +115,7 @@ Role Fit can help job seekers create stronger, evidence-based applications by tu
 
 **The ask:**
 
-Approve a hypothetical $10,000 budget for a controlled 90-day pilot, supported by one existing Product Lead and part-time engineering capacity.
+Approve a $10,000 budget for a controlled 90-day pilot, supported by one existing Product Lead and part-time engineering capacity.
 
 The pilot will deliver a completed core workflow, operational reliability and cost monitoring, and evidence on usefulness, accuracy, repeat usage, personalization benefits and willingness to pay.
 
